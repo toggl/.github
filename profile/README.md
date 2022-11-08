@@ -1,6 +1,6 @@
 # Make cool stuff. From anywhere. 🌏
 
-![Map of Togglers](../assets/map-of-togglers.png)
+![Map of Togglers](https://github.com/toggl/.github/raw/1f6f0398c03f86f6452513c2c9953aa2f429e955/assets/map-of-togglers.png)
 
 ## ⏰ Toggl, explained.
 
